@@ -1,0 +1,38 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>2</step>
+	<numbering>sequential</numbering>
+	<color>0</color>
+	<format>png</format>
+	<path>C:\Users\jonat\Documents</path>
+</settings>
+<audio>
+</audio>
+<layers cols="3">
+	<layer col="1" caption="Background" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Ball Bounce\" color="0" visible="1">
+		<cel col="1" row="1" duration="24">Background_0001.png</cel>
+	</layer>
+	<layer col="2" caption="Ball" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Ball Bounce\" color="1" visible="1">
+		<cel col="2" row="1" duration="1">Ball_0001.png</cel>
+		<cel col="2" row="2" duration="1">Ball_0002.png</cel>
+		<cel col="2" row="3" duration="2">Ball_0003.png</cel>
+		<cel col="2" row="5" duration="2">Ball_0004.png</cel>
+		<cel col="2" row="7" duration="2">Ball_0005.png</cel>
+		<cel col="2" row="9" duration="2">Ball_0006.png</cel>
+		<cel col="2" row="11" duration="1">Ball_0007.png</cel>
+		<cel col="2" row="12" duration="1">Ball_0008.png</cel>
+		<cel col="2" row="13" duration="1">Ball_0009.png</cel>
+		<cel col="2" row="14" duration="1">Ball_0010.png</cel>
+		<cel col="2" row="15" duration="1">Ball_0011.png</cel>
+		<cel col="2" row="16" duration="2">Ball_0012.png</cel>
+		<cel col="2" row="18" duration="2">Ball_0013.png</cel>
+		<cel col="2" row="20" duration="2">Ball_0014.png</cel>
+		<cel col="2" row="22" duration="1">Ball_0015.png</cel>
+		<cel col="2" row="23" duration="1">Ball_0016.png</cel>
+		<cel col="2" row="24" duration="1">Ball_0001.png</cel>
+	</layer>
+	<layer col="3" caption="Tail" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Ball Bounce\" color="0" visible="1">
+	</layer>
+</layers>
+</xsheet>
