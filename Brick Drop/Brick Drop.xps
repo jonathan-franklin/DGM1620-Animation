@@ -1,0 +1,46 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>2</step>
+	<numbering>sequential</numbering>
+	<color>0</color>
+	<format>png</format>
+	<path>C:\Users\jonat\Git Repos\DGM1620-Animation\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="3">
+	<layer col="1" caption="Background" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Brick Drop\" color="0" visible="1">
+		<cel col="1" row="1" duration="67">Background_0001.png</cel>
+	</layer>
+	<layer col="2" caption="Brick" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Brick Drop\" color="0" visible="1">
+		<cel col="2" row="1" duration="1">Brick_0002.png</cel>
+		<cel col="2" row="2" duration="3">Brick_0003.png</cel>
+		<cel col="2" row="5" duration="3">Brick_0004.png</cel>
+		<cel col="2" row="8" duration="3">Brick_0005.png</cel>
+		<cel col="2" row="11" duration="3">Brick_0008.png</cel>
+		<cel col="2" row="14" duration="2">Brick_0010.png</cel>
+		<cel col="2" row="16" duration="2">Brick_0011.png</cel>
+		<cel col="2" row="18" duration="3">Brick_0012.png</cel>
+		<cel col="2" row="21" duration="3">Brick_0013.png</cel>
+		<cel col="2" row="24" duration="3">Brick_0014.png</cel>
+		<cel col="2" row="27" duration="3">Brick_0015.png</cel>
+		<cel col="2" row="30" duration="2">Brick_0016.png</cel>
+		<cel col="2" row="32" duration="2">Brick_0017.png</cel>
+		<cel col="2" row="34" duration="2">Brick_0018.png</cel>
+		<cel col="2" row="36" duration="2">Brick_0019.png</cel>
+		<cel col="2" row="38" duration="2">Brick_0020.png</cel>
+		<cel col="2" row="40" duration="2">Brick_0021.png</cel>
+		<cel col="2" row="42" duration="2">Brick_0022.png</cel>
+		<cel col="2" row="44" duration="1">Brick_0023.png</cel>
+		<cel col="2" row="45" duration="2">Brick_0024.png</cel>
+		<cel col="2" row="47" duration="2">Brick_0025.png</cel>
+		<cel col="2" row="49" duration="2">Brick_0026.png</cel>
+		<cel col="2" row="51" duration="1">Brick_0027.png</cel>
+		<cel col="2" row="52" duration="2">Brick_0028.png</cel>
+		<cel col="2" row="54" duration="14">Brick_0029.png</cel>
+	</layer>
+	<layer col="3" caption="Layer 3" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\" color="0" visible="1">
+	</layer>
+</layers>
+</xsheet>

@@ -1,0 +1,35 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>2</step>
+	<numbering>sequential</numbering>
+	<color>0</color>
+	<format>png</format>
+	<path>C:\Users\jonat\Git Repos\DGM1620-Animation\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="2">
+	<layer col="1" caption="Background" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Walk\" color="0" visible="1">
+		<cel col="1" row="1" duration="2">Background_0001.png</cel>
+	</layer>
+	<layer col="2" caption="Walk" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\" color="0" visible="1">
+		<cel col="2" row="1" duration="2">Walk_0002.png</cel>
+		<cel col="2" row="3" duration="2">Walk_0003.png</cel>
+		<cel col="2" row="5" duration="2">Walk_0004.png</cel>
+		<cel col="2" row="7" duration="2">Walk_0005.png</cel>
+		<cel col="2" row="9" duration="2">Walk_0006.png</cel>
+		<cel col="2" row="11" duration="2">Walk_0007.png</cel>
+		<cel col="2" row="13" duration="2">Walk_0008.png</cel>
+		<cel col="2" row="15" duration="2">Walk_0009.png</cel>
+		<cel col="2" row="17" duration="2">Walk_0010.png</cel>
+		<cel col="2" row="19" duration="2">Walk_0011.png</cel>
+		<cel col="2" row="21" duration="2">Walk_0012.png</cel>
+		<cel col="2" row="23" duration="2">Walk_0014.png</cel>
+		<cel col="2" row="25" duration="2">Walk_0013.png</cel>
+		<cel col="2" row="27" duration="2">Walk_0015.png</cel>
+		<cel col="2" row="29" duration="2">Walk_0016.png</cel>
+		<cel col="2" row="31" duration="2">Walk_0017.png</cel>
+	</layer>
+</layers>
+</xsheet>
