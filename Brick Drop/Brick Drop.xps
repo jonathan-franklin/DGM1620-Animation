@@ -11,36 +11,46 @@
 </audio>
 <layers cols="3">
 	<layer col="1" caption="Background" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Brick Drop\" color="0" visible="1">
-		<cel col="1" row="1" duration="67">Background_0001.png</cel>
+		<cel col="1" row="1" duration="79">Background_0001.png</cel>
 	</layer>
 	<layer col="2" caption="Brick" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Brick Drop\" color="0" visible="1">
-		<cel col="2" row="1" duration="1">Brick_0002.png</cel>
-		<cel col="2" row="2" duration="3">Brick_0003.png</cel>
-		<cel col="2" row="5" duration="3">Brick_0004.png</cel>
-		<cel col="2" row="8" duration="3">Brick_0005.png</cel>
-		<cel col="2" row="11" duration="3">Brick_0008.png</cel>
-		<cel col="2" row="14" duration="2">Brick_0010.png</cel>
-		<cel col="2" row="16" duration="2">Brick_0011.png</cel>
-		<cel col="2" row="18" duration="3">Brick_0012.png</cel>
-		<cel col="2" row="21" duration="3">Brick_0013.png</cel>
-		<cel col="2" row="24" duration="3">Brick_0014.png</cel>
-		<cel col="2" row="27" duration="3">Brick_0015.png</cel>
-		<cel col="2" row="30" duration="2">Brick_0016.png</cel>
-		<cel col="2" row="32" duration="2">Brick_0017.png</cel>
-		<cel col="2" row="34" duration="2">Brick_0018.png</cel>
-		<cel col="2" row="36" duration="2">Brick_0019.png</cel>
-		<cel col="2" row="38" duration="2">Brick_0020.png</cel>
-		<cel col="2" row="40" duration="2">Brick_0021.png</cel>
-		<cel col="2" row="42" duration="2">Brick_0022.png</cel>
-		<cel col="2" row="44" duration="1">Brick_0023.png</cel>
+		<cel col="2" row="1" duration="2">Brick_0001.png</cel>
+		<cel col="2" row="3" duration="2">Brick_0002.png</cel>
+		<cel col="2" row="5" duration="2">Brick_0003.png</cel>
+		<cel col="2" row="7" duration="2">Brick_0004.png</cel>
+		<cel col="2" row="9" duration="2">Brick_0005.png</cel>
+		<cel col="2" row="11" duration="2">Brick_0006.png</cel>
+		<cel col="2" row="13" duration="2">Brick_0007.png</cel>
+		<cel col="2" row="15" duration="2">Brick_0008.png</cel>
+		<cel col="2" row="17" duration="2">Brick_0009.png</cel>
+		<cel col="2" row="19" duration="2">Brick_0010.png</cel>
+		<cel col="2" row="21" duration="2">Brick_0011.png</cel>
+		<cel col="2" row="23" duration="2">Brick_0012.png</cel>
+		<cel col="2" row="25" duration="2">Brick_0013.png</cel>
+		<cel col="2" row="27" duration="2">Brick_0014.png</cel>
+		<cel col="2" row="29" duration="2">Brick_0015.png</cel>
+		<cel col="2" row="31" duration="2">Brick_0016.png</cel>
+		<cel col="2" row="33" duration="2">Brick_0017.png</cel>
+		<cel col="2" row="35" duration="2">Brick_0018.png</cel>
+		<cel col="2" row="37" duration="2">Brick_0020.png</cel>
+		<cel col="2" row="39" duration="2">Brick_0021.png</cel>
+		<cel col="2" row="41" duration="2">Brick_0022.png</cel>
+		<cel col="2" row="43" duration="2">Brick_0023.png</cel>
 		<cel col="2" row="45" duration="2">Brick_0024.png</cel>
-		<cel col="2" row="47" duration="2">Brick_0025.png</cel>
-		<cel col="2" row="49" duration="2">Brick_0026.png</cel>
-		<cel col="2" row="51" duration="1">Brick_0027.png</cel>
+		<cel col="2" row="47" duration="1">Brick_0025.png</cel>
+		<cel col="2" row="48" duration="2">Brick_0026.png</cel>
+		<cel col="2" row="50" duration="2">Brick_0027.png</cel>
 		<cel col="2" row="52" duration="2">Brick_0028.png</cel>
-		<cel col="2" row="54" duration="14">Brick_0029.png</cel>
+		<cel col="2" row="54" duration="2">Brick_0029.png</cel>
+		<cel col="2" row="56" duration="2">Brick_0030.png</cel>
+		<cel col="2" row="58" duration="2">Brick_0031.png</cel>
+		<cel col="2" row="60" duration="2">Brick_0032.png</cel>
+		<cel col="2" row="62" duration="2">Brick_0033.png</cel>
+		<cel col="2" row="64" duration="2">Brick_0034.png</cel>
+		<cel col="2" row="66" duration="14">Brick_0035.png</cel>
 	</layer>
-	<layer col="3" caption="Layer 3" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\" color="0" visible="1">
+	<layer col="3" caption="BrickFreeze" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Brick Drop\" color="0" visible="1">
+		<cel col="3" row="62" duration="18">BrickFreeze_0001.png</cel>
 	</layer>
 </layers>
 </xsheet>

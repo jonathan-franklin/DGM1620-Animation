@@ -1,0 +1,24 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>3</step>
+	<numbering>sequential</numbering>
+	<color>0</color>
+	<format>png</format>
+	<path>C:\Users\jonat\Git Repos\DGM1620-Animation\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="1">
+	<layer col="1" caption="CharaWalk" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Character Cycle\" color="0" visible="1">
+		<cel col="1" row="1" duration="3">CharaWalk_0001.png</cel>
+		<cel col="1" row="4" duration="3">CharaWalk_0002.png</cel>
+		<cel col="1" row="7" duration="3">CharaWalk_0003.png</cel>
+		<cel col="1" row="10" duration="3">CharaWalk_0004.png</cel>
+		<cel col="1" row="13" duration="3">CharaWalk_0005.png</cel>
+		<cel col="1" row="16" duration="3">CharaWalk_0006.png</cel>
+		<cel col="1" row="19" duration="3">CharaWalk_0007.png</cel>
+		<cel col="1" row="22" duration="3">CharaWalk_0008.png</cel>
+	</layer>
+</layers>
+</xsheet>

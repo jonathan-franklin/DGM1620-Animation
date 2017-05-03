@@ -1,0 +1,52 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>2</step>
+	<numbering>sequential</numbering>
+	<color>0</color>
+	<format>png</format>
+	<path>C:\Users\jonat\Git Repos\DGM1620-Animation\</path>
+</settings>
+<audio>
+</audio>
+<layers cols="2">
+	<layer col="1" caption="Pud" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Puddle Jump\" color="0" visible="1">
+		<cel col="1" row="1" duration="79">Pud_0001.png</cel>
+	</layer>
+	<layer col="2" caption="Jupper" dir="C:\Users\jonat\Git Repos\DGM1620-Animation\Puddle Jump\" color="0" visible="1">
+		<cel col="2" row="1" duration="2">Pud_0002.png</cel>
+		<cel col="2" row="3" duration="2">Pud_0003.png</cel>
+		<cel col="2" row="5" duration="2">Pud_0004.png</cel>
+		<cel col="2" row="7" duration="2">Pud_0005.png</cel>
+		<cel col="2" row="9" duration="2">Pud_0006.png</cel>
+		<cel col="2" row="11" duration="2">Pud_0007.png</cel>
+		<cel col="2" row="13" duration="2">Pud_0008.png</cel>
+		<cel col="2" row="15" duration="2">Pud_0009.png</cel>
+		<cel col="2" row="17" duration="2">Pud_0010.png</cel>
+		<cel col="2" row="19" duration="2">Pud_0011.png</cel>
+		<cel col="2" row="21" duration="2">Pud_0012.png</cel>
+		<cel col="2" row="23" duration="2">Pud_0013.png</cel>
+		<cel col="2" row="25" duration="2">Pud_0014.png</cel>
+		<cel col="2" row="27" duration="2">Pud_0015.png</cel>
+		<cel col="2" row="29" duration="2">Pud_0016.png</cel>
+		<cel col="2" row="31" duration="2">Pud_0017.png</cel>
+		<cel col="2" row="33" duration="2">Pud_0018.png</cel>
+		<cel col="2" row="35" duration="2">Pud_0019.png</cel>
+		<cel col="2" row="37" duration="2">Pud_0020.png</cel>
+		<cel col="2" row="39" duration="2">Pud_0021.png</cel>
+		<cel col="2" row="41" duration="2">Pud_0022.png</cel>
+		<cel col="2" row="43" duration="2">Pud_0023.png</cel>
+		<cel col="2" row="45" duration="2">Pud_0024.png</cel>
+		<cel col="2" row="47" duration="2">Pud_0025.png</cel>
+		<cel col="2" row="49" duration="2">Pud_0026.png</cel>
+		<cel col="2" row="51" duration="2">Pud_0027.png</cel>
+		<cel col="2" row="53" duration="2">Pud_0028.png</cel>
+		<cel col="2" row="55" duration="2">Pud_0029.png</cel>
+		<cel col="2" row="57" duration="2">Pud_0030.png</cel>
+		<cel col="2" row="59" duration="2">Pud_0031.png</cel>
+		<cel col="2" row="61" duration="2">Pud_0032.png</cel>
+		<cel col="2" row="63" duration="2">Pud_0033.png</cel>
+		<cel col="2" row="65" duration="15">Pud_0034.png</cel>
+	</layer>
+</layers>
+</xsheet>
